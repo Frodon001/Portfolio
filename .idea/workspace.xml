@@ -2,14 +2,178 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d6c8513-f3b7-4b1c-9203-c51c946fd6fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/portfolio/hackhaton-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/CSC10h/CSC1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/CSC10h/CSC2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/CSC10h/CSC3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Casino10h/casino1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Casino10h/casino2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Casino10h/casino3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Casino10h/casino4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/DevDay2h/dev1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/DevDay2h/dev2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaC3h/formaC1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaC3h/formaC2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaDocker6h/formaDocker1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaDocker6h/formaDocker2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaDocker6h/formaDocker3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaDocker6h/formaDocker4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaSQL3h/formaSQL1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormaSQL3h/formaSQL2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormationNode3h/formationNode1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/FormationNode3h/formationNode2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Future1h30/future1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Future1h30/future2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Linux4h/Linux1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MachL3h30/machL1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MachL3h30/machL2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MachL3h30/machL3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MasterClass2h30/MasterC1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MasterClass2h30/MasterC2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/MasterClass2h30/MasterC3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Siep8h/siep1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Siep8h/siep2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Stress1h30/stress1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Stress1h30/stress2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Stress1h30/stress3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Stress1h30/stress4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Stress1h30/stress5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/TechnologyDay4h/techno1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/TechnologyDay4h/techno2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/TechnologyDay4h/techno3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/casino-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/csc-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/devDay-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/formaC-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/formaNode-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/formaSQL-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/formationDocker-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/future-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/linux-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/machL-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/masterClass-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/siep-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/stress-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/technologyDay-detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Hackathon10h/hack1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Hackathon10h/hack2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Hackathon10h/hack3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/Hackhaton10h/hack4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/portfolio/Hackathon10h/hack4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-details-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-details-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/portfolio/portfolio-details-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/profile-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/profile-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/testimonials/testimonials-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/testimonials/testimonials-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/testimonials/testimonials-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/testimonials/testimonials-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/testimonials/testimonials-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/testimonials/testimonials-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/testimonials/testimonials-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/testimonials/testimonials-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/img/testimonials/testimonials-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/img/testimonials/testimonials-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_sections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_sections.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/aos/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/aos/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/aos/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/aos/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap-icons/bootstrap-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap-icons/bootstrap-icons.json" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap-icons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap-icons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/css/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/css/boxicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/css/boxicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/css/boxicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/css/boxicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/css/transformations.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/css/transformations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/fonts/boxicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/fonts/boxicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/fonts/boxicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/fonts/boxicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/fonts/boxicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/fonts/boxicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/fonts/boxicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/boxicons/fonts/boxicons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/boxicons/fonts/boxicons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/glightbox/css/glightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/glightbox/css/glightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/glightbox/js/glightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/glightbox/js/glightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/php-email-form/php-email-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/php-email-form/php-email-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/php-email-form/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/purecounter/purecounter.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/purecounter/purecounter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/swiper/swiper-bundle.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/swiper/swiper-bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/typed.js/typed.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/typed.js/typed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/typed.js/typed.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/typed.js/typed.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/typed.js/typed.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/typed.js/typed.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/assets/vendor/waypoints/noframework.waypoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/assets/vendor/waypoints/noframework.waypoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/forms/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/inner-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/inner-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPortfolio-pro/portfolio/hackhaton-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/iPortfolio-pro/public/portfolio/hackathon-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +197,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/iPortfolio-pro/portfolio" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/iPortfolio-pro/portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iPortfolio-pro/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +217,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619640166849</updated>
-      <workItem from="1619640167964" duration="1995000" />
+      <workItem from="1619640167964" duration="2986000" />
+      <workItem from="1619873306875" duration="8456000" />
+      <workItem from="1619896739968" duration="275000" />
+      <workItem from="1619901328555" duration="10344000" />
     </task>
     <servers />
   </component>
